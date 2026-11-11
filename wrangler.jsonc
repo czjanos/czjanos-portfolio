@@ -1,6 +1,8 @@
 {
   "name": "czjanos-portfolio",
   "compatibility_date": "2026-11-10",
+  "workers_dev": false,
+  "preview_urls": false,
     "vars": {
     "ENVIRONMENT": "production"
   },

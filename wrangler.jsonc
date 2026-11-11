@@ -1,7 +1,15 @@
 {
   "name": "czjanos-portfolio",
   "compatibility_date": "2026-11-10",
-  "previews": {},
+    "vars": {
+    "ENVIRONMENT": "production"
+  },
+
+  "previews": {
+    "vars": {
+      "ENVIRONMENT": "development"
+    }
+  },
   "assets": {
     "directory": "./dist/czjanos-portfolio/browser",
     "not_found_handling": "single-page-application"

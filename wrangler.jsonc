@@ -1,6 +1,7 @@
 {
   "name": "czjanos-portfolio",
   "compatibility_date": "2026-11-10",
+  "previews": {},
   "assets": {
     "directory": "./dist/czjanos-portfolio/browser",
     "not_found_handling": "single-page-application"
